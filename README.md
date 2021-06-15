@@ -15,7 +15,7 @@ Busco me tornar um dev front end, se quiser interagir comigo entre em contato pe
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <br />
-:calling: (024) 99911-7374>
+:calling: (024) 99911-7374
 
 
 <hr />
