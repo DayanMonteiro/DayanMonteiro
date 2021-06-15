@@ -38,8 +38,6 @@ Busco me tornar um dev front end, se quiser interagir comigo entre em contato pe
 
 <hr />
 
-Que o futuro nos reserve dias bons!
-
 # Portfólio com freelancers
 
 Participação em projeto freelancer para gerenciar produtos de uma loja de móveis em suas três lojas. O desenvolvimento web foi feito com ReactJS no frontend e AdonisJS no backend.
