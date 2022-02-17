@@ -40,6 +40,7 @@ Se quiser interagir comigo entre em contato pelo Linkedin, Instagram ou WhatsApp
 
 # Scrum
 <br />
+<br />
 Scrum Fundamentals Certified
 <br />
 
@@ -48,6 +49,8 @@ Scrum Fundamentals Certified
 <br />
 
 Scrum Foundation Professional Certificate
+<br />
+
 ![SFPC](https://github.com/DayanMonteiro/Imagens/blob/master/img/SFPC.png)
 
 <br />
