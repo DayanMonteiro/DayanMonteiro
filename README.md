@@ -43,6 +43,7 @@ Se quiser interagir comigo entre em contato pelo Linkedin, Instagram ou WhatsApp
 <br />
 Scrum Fundamentals Certified
 <br />
+<br />
 
 ![SFC](https://github.com/DayanMonteiro/Imagens/blob/master/img/SFC.png)
 
