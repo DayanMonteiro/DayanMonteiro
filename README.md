@@ -39,7 +39,9 @@ Se quiser interagir comigo entre em contato pelo Linkedin, Instagram ou WhatsApp
 <hr />
 
 # Scrum
-![loginWeb](https://github.com/DayanMonteiro/Clone-Netflix--Figma-HTML5-CSS3-JavaScript-NodeJS-MongoDB-web-ReactJS-App-React-Native/blob/master/Login-web.png)
+![SFC](https://github.com/DayanMonteiro/Imagens/blob/master/img/SFC.png)
+![SFPC](https://github.com/DayanMonteiro/Imagens/blob/master/img/SFPC.png)
+![SMPC](https://github.com/DayanMonteiro/Imagens/blob/master/img/SMPC.png)
 
 
 # Portfólio com freelancers
