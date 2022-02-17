@@ -42,13 +42,21 @@ Se quiser interagir comigo entre em contato pelo Linkedin, Instagram ou WhatsApp
 <br />
 Scrum Fundamentals Certified
 <br />
+
 ![SFC](https://github.com/DayanMonteiro/Imagens/blob/master/img/SFC.png)
+
 <br />
+
 Scrum Foundation Professional Certificate
 ![SFPC](https://github.com/DayanMonteiro/Imagens/blob/master/img/SFPC.png)
+
 <br />
+
 Scrum Master Professional Certificate
+<br />
+
 ![SMPC](https://github.com/DayanMonteiro/Imagens/blob/master/img/SMPC.png)
+
 <br />
 
 # Portfólio com freelancers
