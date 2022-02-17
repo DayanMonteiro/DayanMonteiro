@@ -38,6 +38,10 @@ Se quiser interagir comigo entre em contato pelo Linkedin, Instagram ou WhatsApp
 
 <hr />
 
+# Scrum
+![loginWeb](https://github.com/DayanMonteiro/Clone-Netflix--Figma-HTML5-CSS3-JavaScript-NodeJS-MongoDB-web-ReactJS-App-React-Native/blob/master/Login-web.png)
+
+
 # Portfólio com freelancers
 
 Participação em projeto freelancer para gerenciar produtos de uma loja de móveis em suas três lojas. O desenvolvimento web foi feito com ReactJS no frontend e AdonisJS no backend.
