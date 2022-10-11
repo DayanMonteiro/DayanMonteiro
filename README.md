@@ -4,8 +4,8 @@
 
 # Connect whith me:
 
-Olá, me chamo Dayan Monteiro recentemente fiz uma transição de carreira tornando-me front-end na empresa FDTE (Fundação de Desenvovimento Tecnlógico da Engenharia).
-Estou cursando Suporte Técnico em Análise e Desenvolvimento de Sistemas.
+Olá, me chamo Dayan Monteiro e fiz uma transição de carreira tornando-me front-end na empresa FDTE (Fundação de Desenvovimento Tecnlógico da Engenharia).
+Recentemente concluí o curso superior de Suporte Técnico em Análise e Desenvolvimento de Sistemas.
 Se quiser interagir comigo entre em contato pelo Linkedin, Instagram ou WhatsApp passados abaixo.
 
 <a href="https://www.linkedin.com/in/dayan-monteiro-dos-santos/" target="_blank">
