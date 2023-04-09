@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DayanMonteiro
 - 👀 I’m interested in change careers and become a developer
-- 🌱 I’m currently learning HTML, CSS, Javascript, Typescript and ReactJS
+- 🌱 I’m currently learning HTML, CSS, Javascript, Typescript, ReactJS and React Native
 
 # Connect whith me:
 
