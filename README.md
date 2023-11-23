@@ -16,7 +16,6 @@ Se quiser interagir comigo entre em contato pelo Linkedin, Instagram ou WhatsApp
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <br />
-:calling: (024) 99911-7374
 
 
 <hr />
@@ -29,8 +28,9 @@ Se quiser interagir comigo entre em contato pelo Linkedin, Instagram ou WhatsApp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" widtf="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" widtf="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" widtf="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" widtf="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="springboot" widtf="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="mysql" widtf="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.icon-icons.com/icons2/627/PNG/512/sql-document-outlined-interface-symbol_icon-icons.com_57504.png" alt="sql" widtf="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/sequelize_original_wordmark_logo_icon_146349.png" alt="sequelize" widtf="40" height="40" style="max-width:100%;"></img>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DayanMonteiro&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DayanMonteiro)](https://github.com/DayanMonteiro/github-readme-stats)
