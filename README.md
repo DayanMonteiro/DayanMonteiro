@@ -72,7 +72,7 @@ Ignite ReactJs
 <br />
 <br />
 
-![ReactJs](https://github.com/DayanMonteiro/Imagens/blob/master/img/Ignite-ReactJS.png)
+![ReactJs](https://github.com/DayanMonteiro/Imagens/blob/master/img/perfil/Ignite-ReactJS.png)
 
 # Portfólio com freelancers
 
