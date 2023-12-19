@@ -79,7 +79,7 @@ Ignite ReactJs
 ## Front End Developer - FDTE (Fundação para o Desenvolvimento Tecnológico da Engenharia) - USP
 
 INOVATA - FDTE · Full-timeINOVATA - FDTE · Full-time
-Jul 2021 - Oct 2022 · 1 yr 4 mosJul 2021 - Oct 2022 · 1 yr 4 mos
+Jul 2021 - Out 2022 · 1 ano e 4 meses
 São Paulo, São Paulo, Brazil · RemoteSão Paulo, São Paulo, Brazil · Remote
 
 1 - Aplicativo imobiliário para corretores, para realizar uma análise de crédito e adquirir um imóvel.
@@ -139,7 +139,7 @@ Skills: TypeScript · GraphQL · Mqtt · Flowbuild · Front-End Development · R
 ## Stoom - Soluções em E-commerce
 
 Stoom - Soluções em E-commerce · Full-timeStoom - Soluções em E-commerce · Full-time
-Feb 2023 - Present · 11 mosFeb 2023 - Present · 11 mos
+Fev 2023 - Atualmente
 Brazil · RemoteBrazil · Remote
 
 Tenda Atacado cliente de e-commerces - https://www.tendaatacado.com.br/  
