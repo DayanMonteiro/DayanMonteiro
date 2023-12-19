@@ -76,7 +76,7 @@ Ignite ReactJs
 
 # Experiência Profissional 
 
-### Front End Developer - FDTE (Fundação para o Desenvolvimento Tecnológico da Engenharia) - USP
+## Front End Developer - FDTE (Fundação para o Desenvolvimento Tecnológico da Engenharia) - USP
 
 INOVATA - FDTE · Full-timeINOVATA - FDTE · Full-time
 Jul 2021 - Oct 2022 · 1 yr 4 mosJul 2021 - Oct 2022 · 1 yr 4 mos
@@ -136,13 +136,13 @@ Json Editor
 Skills: TypeScript · GraphQL · Mqtt · Flowbuild · Front-End Development · Redux.js · React Native · React.js · Git · HTML · JavaScript · Linux
 
 
-### Stoom - Soluções em E-commerce
+## Stoom - Soluções em E-commerce
 
 Stoom - Soluções em E-commerce · Full-timeStoom - Soluções em E-commerce · Full-time
 Feb 2023 - Present · 11 mosFeb 2023 - Present · 11 mos
 Brazil · RemoteBrazil · Remote
 
-Tenda Atacado cliente de e-commerces -    <a href="https://www.tendaatacado.com.br/" target="_blank">   
+Tenda Atacado cliente de e-commerces - https://www.tendaatacado.com.br/  
 Site principal - Tecnologias:
 NextJS
 Hooks
