@@ -4,9 +4,9 @@
 
 # Connect whith me:
 
-Olá, me chamo Dayan Monteiro e fiz uma transição de carreira tornando-me front-end.
+Olá, me chamo Dayan Monteiro sou programador front-end estudando back end no nomento!
 Formado em Suporte Técnico em Análise e Desenvolvimento de Sistemas.
-Se quiser interagir comigo entre em contato pelo Linkedin, Instagram ou WhatsApp passados abaixo.
+Se quiser interagir comigo entre em contato pelo Linkedin ou Instagram passados abaixo.
 
 <a href="https://www.linkedin.com/in/dayan-monteiro-dos-santos/" target="_blank">
 <img align="center" alt="dayan-linkedin" height="30" widdth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
