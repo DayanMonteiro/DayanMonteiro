@@ -45,21 +45,21 @@ Scrum Fundamentals Certified
 <br />
 <br />
 
-![SFC](https://github.com/DayanMonteiro/Imagens/blob/master/img/SFC.png)
+![SFC](https://github.com/DayanMonteiro/Imagens/blob/master/img/perfil/SFC.png)
 
 <br />
 
 Scrum Foundation Professional Certificate
 <br />
 
-![SFPC](https://github.com/DayanMonteiro/Imagens/blob/master/img/SFPC.png)
+![SFPC](https://github.com/DayanMonteiro/Imagens/blob/master/img/perfil/SFPC.png)
 
 <br />
 
 Scrum Master Professional Certificate
 <br />
 
-![SMPC](https://github.com/DayanMonteiro/Imagens/blob/master/img/SMPC.png)
+![SMPC](https://github.com/DayanMonteiro/Imagens/blob/master/img/perfil/SMPC.png)
 
 <br />
 <br />
