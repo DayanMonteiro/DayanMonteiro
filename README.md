@@ -74,15 +74,108 @@ Ignite ReactJs
 
 ![ReactJs](https://github.com/DayanMonteiro/Imagens/blob/master/img/perfil/Ignite-ReactJS.png)
 
-# Portfólio com freelancers
+# Experiência Profissional 
 
-Participação em projeto freelancer para gerenciar produtos de uma loja de móveis em suas três lojas. O desenvolvimento web foi feito com ReactJS no frontend e AdonisJS no backend.
+### Front End Developer - FDTE (Fundação para o Desenvolvimento Tecnológico da Engenharia) - USP
 
-http://ubamoveis.com.br
+INOVATA - FDTE · Full-timeINOVATA - FDTE · Full-time
+Jul 2021 - Oct 2022 · 1 yr 4 mosJul 2021 - Oct 2022 · 1 yr 4 mos
+São Paulo, São Paulo, Brazil · RemoteSão Paulo, São Paulo, Brazil · Remote
 
-Participação em projeto freelancer para cadastro de arquitetos e oferta de desenvolvimento de ambientes planejados. O desenvolvimento web foi feito com ReactJS no frontend e AdonisJS no backend.
+1 - Aplicativo imobiliário para corretores, para realizar uma análise de crédito e adquirir um imóvel.
+Tecnologias Mobile:
+React Native
+Hooks
+Redux/redux-toolkit
+MǪTT (mensageria)
 
-http://casabelavistavr.com.br/2021/
+2 - Aplicativo imobiliário para análise de crédito e seleção de empreendimentos a partir do credito aprovado.
+Tecnologias Mobile:
+ReactNative
+Hooks
+Redux/redux-toolkitSistema web englobando as necessidades das rotinas de trabalho da imobiliária.
+Tecnologias:
+ReactJS
+Redux/redux-toolkit
+Flowbuild
+Workflow-manager
+Bootstrap-4
+Evergreen UI
+Formik
+Yup
+MǪTT (mensageria)
+
+Site vitrine da imobiliária -
+Tecnologias:
+NextJs
+ReactJs
+Styled Components
+POC para Fast Shop, Lupo - clientes de e-commerces
+Tecnologias:
+ReactJS
+Redux/redux-toolkit
+Typescript
+Material UI
+Stitches
+GraphǪL
+NestJS
+Magento2
+
+Flow Build - biblioteca open source desenvolvida pela FDTE - https://flow-build.github.io/
+Técnologias:
+ReactJS
+Redux/redux-toolkit
+Typescript
+Material UI
+Lodash
+MQTT
+Notistack
+BPMN-JS
+Json Editor
+
+Skills: TypeScript · GraphQL · Mqtt · Flowbuild · Front-End Development · Redux.js · React Native · React.js · Git · HTML · JavaScript · Linux
+
+
+### Stoom - Soluções em E-commerce
+
+Stoom - Soluções em E-commerce · Full-timeStoom - Soluções em E-commerce · Full-time
+Feb 2023 - Present · 11 mosFeb 2023 - Present · 11 mos
+Brazil · RemoteBrazil · Remote
+
+Tenda Atacado cliente de e-commerces -    <a href="https://www.tendaatacado.com.br/" target="_blank">   
+Site principal - Tecnologias:
+NextJS
+Hooks
+Mobx
+SASS
+Bootstrap
+Axios
+
+Plataformas pra vendas no atacado B2B e B2C - Tecnologias:
+NextJS
+Hooks
+Mobx
+Styled Components
+Bootstrap
+Axios
+
+Tenda Marketplace Manager - Tecnologias:
+NextJS
+Hooks
+Mobx
+Styled Components
+Bootstrap
+Axios
+
+Aplicativo de check list para controle de estoque e organização de setores - Tecnologias :
+React Native
+Hooks
+Redux
+Typescript
+Styled ComponentsTenda 
+
+Skills: React Hooks · Next.js · Bibliotecas JavaScript · React Native · React.js · JavaScript
+
 
 <hr />
 
