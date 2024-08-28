@@ -24,7 +24,7 @@ Se quiser interagir comigo entre em contato pelo Linkedin ou Instagram passados 
 Em meu canal ajudo programadores iniciantes a darem os primeiros passos na programação e programadores com pouca experiencia a aumentarem suas skills.
 
 <a href="https://www.youtube.com/@codando-loucamente" target="_blank">
-<img src="https://cdn.pixabay.com/photo/2017/10/12/12/54/youtube-2844504_1280.png" />
+<img height="40" widdth="40" src="https://img.freepik.com/psd-gratis/cuadrado-3d-logotipo-youtube_125540-1573.jpg?w=996&t=st=1724873607~exp=1724874207~hmac=a2e114e40e3547e60e7eb4445924d911091f38ac738aba43f44cff6c0d4c38fd" />
 </a>
 
 <hr />
