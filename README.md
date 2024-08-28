@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DayanMonteiro
 - 👀 I’m interested in change careers and become a developer
-- 🌱 I’m currently learning HTML, CSS, Javascript, Typescript, ReactJS and React Native
+- 🌱 I’m currently learning HTML, CSS, Javascript, Typescript, ReactJs, React Native, NodeJs, ExpressJs, MongoDB.
 
 # Connect whith me:
 
@@ -12,11 +12,20 @@ Se quiser interagir comigo entre em contato pelo Linkedin ou Instagram passados 
 <img align="center" alt="dayan-linkedin" height="30" widdth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 <br />
+<br />
 <a href="https://www.instagram.com/dayan_monteiro/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <br />
+<br />
 
+###  Conheça meu canal no Youtube
+
+Em meu canal ajudo programadores iniciantes a darem os primeiros passos na programação e programadores com pouca experiencia a aumentarem suas skills.
+
+<a href="https://www.youtube.com/@codando-loucamente" target="_blank">
+<img src="https://cdn.pixabay.com/photo/2017/10/12/12/54/youtube-2844504_1280.png" />
+</a>
 
 <hr />
 
