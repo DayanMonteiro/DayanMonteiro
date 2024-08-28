@@ -12,7 +12,6 @@ Se quiser interagir comigo entre em contato pelo Linkedin ou Instagram passados 
 <img align="center" alt="dayan-linkedin" height="30" widdth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 <br />
-<br />
 <a href="https://www.instagram.com/dayan_monteiro/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
@@ -24,7 +23,7 @@ Se quiser interagir comigo entre em contato pelo Linkedin ou Instagram passados 
 Em meu canal ajudo programadores iniciantes a darem os primeiros passos na programação e programadores com pouca experiencia a aumentarem suas skills.
 
 <a href="https://www.youtube.com/@codando-loucamente" target="_blank">
-<img height="40" widdth="40" src="https://img.freepik.com/psd-gratis/cuadrado-3d-logotipo-youtube_125540-1573.jpg?w=996&t=st=1724873607~exp=1724874207~hmac=a2e114e40e3547e60e7eb4445924d911091f38ac738aba43f44cff6c0d4c38fd" />
+<img height="40" widdth="40" src="https://img.freepik.com/psd-gratis/diseno-logotipo-redes-sociales_23-2151296989.jpg?w=826&t=st=1724873884~exp=1724874484~hmac=621d0f3c37000d0c52f62126d16ac9bc584b35118111fb4e46fbdd2ab2004475" />
 </a>
 
 <hr />
